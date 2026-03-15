@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<title>Connect Google | INX</title>
+
+<link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Connect your Google account</h1>
+
+<p>
+To activate your automation system, connect your Google account.
+</p>
+
+<button onclick="connect()">Connect Google</button>
+
+</div>
+
+<script>
+
+function connect(){
+
+const params = new URLSearchParams(window.location.search);
+const token = params.get("token");
+
+if(!token){
+alert("Invalid onboarding link");
+return;
+}
+
+window.location.href =
+"https://backend.onesite.co.in/oauth/start?token=" + token;
+
+}
+
+</script>
+
+</body>
+</html>
