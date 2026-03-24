@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="INX Technologies builds managed automation systems that eliminate manual enquiry handling and streamline business operations for coaching institutes and growing businesses.">
+  <meta name="keywords" content="automation, business automation, enquiry automation, managed infrastructure, INX Technologies">
+  <meta name="author" content="INX Technologies">
+  <title>INX | CG-Expired or Invalid</title>
+  <link rel="icon" type="image/png" href="https://onesite.co.in/assets/favicon.png">
+  <link rel="stylesheet" href="https://onesite.co.in/css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+
+  <nav class="nav" role="navigation" aria-label="Main navigation">
+    <div class="container">
+      <a href="https://onesite.co.in/" class="nav__brand"><span>INX</span> Technologies</a>
+    </div></nav></body>
+  <main>
+
+    <!-- Hero Section -->
+    <section class="hero" id="hero">
+      <div class="container">
+        <div class="hero__content fade-in">
+          <span class="hero__label" style="text-align: center;">Link Expired or Invalid ⛔</span>
+          <p class="hero__description">This onboarding link is no longer valid. <br>
+            It may have expired or been used incorrectly.</p>
+          <p class="hero__description"><b>If you believe this is an issue or still need access, please contact us on WhatsApp at the same number from which this link was shared.</b></p>
+            <p class="hero__description">You can safely close this window.</p>
+          <div class="hero__actions">
+            <a href="https://onesite.co.in/privacy-policy"><button class="btn btn--primary">Privacy Policy</button></a>
+            <a href="https://onesite.co.in/terms"><button class="btn btn--primary">Terms of Service</button></a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+      </div>
+      <div class="footer__bottom">
+        <p>&copy; 2026 INX Technologies. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://onesite.co.in/js/main.js"></script>
+</body>
+</html>
